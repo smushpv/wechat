@@ -1,3 +1,8 @@
 <!--page/home/home.wxml-->
 <text class="title">hello world</text>
 <button size="mini">保存</button>
+
+
+<view>知识点2</view>
+
+<text>niubili </text>
