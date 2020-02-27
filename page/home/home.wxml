@@ -1,3 +1,5 @@
 <!--page/home/home.wxml-->
 <text class="title">hello world</text>
 <button size="mini">保存</button>
+
+<view>test 1</view>
